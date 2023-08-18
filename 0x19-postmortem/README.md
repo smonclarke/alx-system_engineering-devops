@@ -3,9 +3,9 @@
 
 `Duration of the outage with start and end times (including timezone)`
 
-Start of Outage: 13th September 2021 6:00 am UTC
+Start of Outage: 13th August 2023 6:00 am UTC
 
-End of Outage: 27th September 2021 6:00 am UTC
+End of Outage: 14th August 2023 6:00 am UTC
 
 `What was the impact (What service was down/slow?, What were users experiencing?, How many % of the users were affected?)`
 
@@ -68,4 +68,3 @@ Verify is the user is already registered and can log in
 <li>Reset password to a default
 <li>Provide user with the new default password and ask them to log in and change their password to a preferred one.
 
-Blog post link: https://medium.com/@maameyaasarp/77f4d487e0ca
